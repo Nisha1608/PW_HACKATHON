@@ -411,7 +411,7 @@ http://localhost:8000                       # Local development
 https://pw-hackathon-zeta.vercel.app/api   # Live Production Backend
 ```
 
-> 🌐 **Live App**: [https://pw-hackathon-zeta.vercel.app/](https://pw-hackathon-zeta.vercel.app/)
+> 🌐 **Live App**: [https://pw-hackathon-zeta.vercel.app/](https://genrx.vercel.app/)
 
 ---
 
