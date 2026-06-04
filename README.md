@@ -411,7 +411,7 @@ http://localhost:8000                       # Local development
 https://pw-hackathon-zeta.vercel.app/api   # Live Production Backend
 ```
 
-> 🌐 **Live App**: [https://pw-hackathon-zeta.vercel.app/](https://genrx.vercel.app/)
+> 🌐 **Live App**: [https://genrx.vercel.app/](https://genrx.vercel.app/)
 
 ---
 
@@ -555,7 +555,7 @@ chr22   42522613    rs3892097   C    T    99    PASS    GENE=CYP2D6;STAR=*4;RS=3
 
 ### Example 1: Upload via Web Interface
 
-1. Open **[https://pw-hackathon-zeta.vercel.app/](https://pw-hackathon-zeta.vercel.app/)** (live app) or `http://localhost:3000` (local)
+1. Open **[https://genrx.vercel.app/](https://genrx.vercel.app/)** (live app) or `http://localhost:3000` (local)
 2. Drag & drop `sample_vcf/sample_high_risk.vcf` onto the upload zone
 3. Type `CODEINE, WARFARIN, AZATHIOPRINE` in the drug input field
 4. Click **"Generate Clinical Report"**
