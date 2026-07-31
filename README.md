@@ -662,11 +662,11 @@ PW_HACKATHON/
 |---|
 | **[Nisha Rathour]** | 
 | **[Rudra Pratap Singh]** | 
-| **[Ritesh Singh]** |
-| **[Sameer Maurya]** | 
+| **[Pankaj Kumar Rajbhar]** |
+| **[Nipun Malik]** | 
 
-> Built for **RIFT 2026 Hackathon** — GenRx (PharmaGuard Problem Statement)  
-> Submission hashtags: `#RIFT2026`
+> Built for **Final year project** — GenRx (PharmaGuard Problem Statement)  
+> Submission hashtags: `#2026-2027`
 
 ## 📄 License
 
